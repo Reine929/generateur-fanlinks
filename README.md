@@ -2,7 +2,7 @@
 
 Un script Python qui lit un fichier CSV et crée automatiquement une page de fanlink pour chaque titre : une page unique avec les boutons vers Spotify, Deezer, Apple Music et une boutique.
 
-**Démonstration en ligne :** [LIEN GITHUB PAGES À AJOUTER]
+**Démonstration en ligne :** [https://github.com/Reine929/generateur-fanlinks]
 
 ![Exemple de page de fanlink](capture.png)
 
