@@ -8,7 +8,6 @@ import csv
 from pathlib import Path
 from string import Template
 
-# --- Réglages de départ (tu n'as rien à changer ici) ---------------------------
 FICHIER_CSV = "tracks.csv"          # le fichier avec les titres et les liens
 FICHIER_MODELE = "template.html"    # le modèle de page (avec $title, $artist, $buttons)
 DOSSIER_SORTIE = Path("docs")       # les pages générées iront ici
