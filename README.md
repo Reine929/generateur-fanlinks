@@ -24,7 +24,7 @@ Les pages sont créées dans le dossier `docs/`. Ouvrir `docs/index.html` dans u
 
 ## À noter
 - C'est une démonstration avec cinq titres tirés d'une playlist Spotify de rap ivoirien (projet d'analyse des tendances musicales). Ce ne sont pas des données d'un distributeur. La ligne « Artiste Exemple » est fictive.
-- Les liens Spotify viennent de l'API Spotify (identifiants des morceaux). Les liens Deezer et Apple Music ont été trouvés par recherche puis vérifiés à la main.
+- Les liens Spotify viennent de l'API Spotify (identifiants des morceaux). Les liens Deezer et Apple Music ont été trouvés par recherche puis vérifiés.
 - Limites : pas de lien de boutique dans la démo, un style simple, et le script ne génère que des pages statiques.
 
 ## Technologies
